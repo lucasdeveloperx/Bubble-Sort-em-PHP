@@ -18,7 +18,7 @@ Este projeto é uma implementação simples do algoritmo Bubble Sort em PHP. O u
 
 1. **Clone o repositório** para a sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/lucasdeveloperx/Bubble-Sort-em-PHP.git
 
 ## Navegue até o diretório do projeto:
 
